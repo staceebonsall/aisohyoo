@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahghaicith.mattdyer.us/sitemap.xml
